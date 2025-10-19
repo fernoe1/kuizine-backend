@@ -1,4 +1,4 @@
-# Simple backend for WEB technologies made with express.js, hosted on render.com
+# Simple backend for WEB technologies, made with express.js, hosted on render.com
 
 ## API endpoints
 ```
