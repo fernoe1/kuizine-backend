@@ -25,7 +25,6 @@ function initialize() {
   ));
 }
 
-// Initialize the pseudo database once
 initialize();
 
 module.exports = {
